@@ -1,0 +1,6 @@
+C:/Users/Miguel/Desktop/EstructurasC/4100901-Room_Control-CubeMX/4100901-Room_Control-CubeMX/CMakeFiles/4100901-Room_Control-CubeMX.dir
+C:/Users/Miguel/Desktop/EstructurasC/4100901-Room_Control-CubeMX/4100901-Room_Control-CubeMX/CMakeFiles/edit_cache.dir
+C:/Users/Miguel/Desktop/EstructurasC/4100901-Room_Control-CubeMX/4100901-Room_Control-CubeMX/CMakeFiles/rebuild_cache.dir
+C:/Users/Miguel/Desktop/EstructurasC/4100901-Room_Control-CubeMX/4100901-Room_Control-CubeMX/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/Miguel/Desktop/EstructurasC/4100901-Room_Control-CubeMX/4100901-Room_Control-CubeMX/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Miguel/Desktop/EstructurasC/4100901-Room_Control-CubeMX/4100901-Room_Control-CubeMX/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
